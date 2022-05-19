@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Josh M. Campbell"
 title_separator          : "-"
-name                     : &name "Josh"
+name                     : &name "Josh Campbell"
 description              : &description "Masters Student, Oregon State University Robotics Engineering"
 url                      : https://JCampbell9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
