@@ -3,9 +3,10 @@ title: "Evaluating a Framework for Dividing a Complex Manipulation Task
 into Parameterized Object-Centric Sub-Tasks"
 collection: publications
 permalink: /publication/2022-task_decomposition
-excerpt: '[IN REVIEW] International Conference on Intelligent Robots and Systems (IROS), 2022'
+<!-- excerpt: '[IN REVIEW] International Conference on Intelligent Robots and Systems (IROS), 2022' -->
 ---
 
+'[IN REVIEW] International Conference on Intelligent Robots and Systems (IROS), 2022'
 
 **Abstract**
 
