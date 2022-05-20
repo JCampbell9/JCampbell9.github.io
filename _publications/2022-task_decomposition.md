@@ -4,10 +4,10 @@ into Parameterized Object-Centric Sub-Tasks"
 collection: publications
 permalink: /publication/2022-task_decomposition
 excerpt: "IN REVIEW"
-date: 2022
 venue: International Conference on Intelligent Robots and Systems (IROS)
 ---
 
+**IN REVIEW**
 
 **Abstract**
 
