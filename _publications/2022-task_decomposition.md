@@ -8,9 +8,7 @@ venue: '[IN REVIEW] International Conference on Intelligent Robots and Systems (
 ---
 
 
-**Abstract**
-
-We propose a task break-down approach for
+**Abstract:** We propose a task break-down approach for
 manipulation tasks that is object-centric and that utilizes es-
 tablished manipulator and arm benchmarks for evaluating fea-
 sibility. This is accomplished by specifying object-centric sub-
