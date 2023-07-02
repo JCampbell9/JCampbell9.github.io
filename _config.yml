@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josh M. Campbell"
 title_separator          : "-"
 name                     : &name "Josh Campbell"
-description              : &description "Masters Student, Oregon State University Robotics Engineering"
+description              : &description "Robotics Engineer, Southwest Research Institute"
 url                      : https://JCampbell9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JCampbell9/JCampbell9.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Josh Campbell"
   avatar           : "profile.JPG"
-  bio              : "OSU Robotics, Masters Student"
-  location         : "Corvallis, OR"
+  bio              : "Southwest Research Institute (SwRI), Robotics Engineer"
+  location         : "San Antonio, TX"
   employer         :
   pubmed           : 
   googlescholar    : 
